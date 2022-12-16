@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Marwan-Ahmed77
-- 👀 I’m interested in full stack development and software engineering.
+- 👀 I’m interested in Fron-End development and software engineering.
 - 🌱 I’m currently learning Computer Seince.
 - 💞️ I’m looking to collaborate on projects and get some help and give my experience after that.
 - 📫 How to reach me : marwanahmed2462@gmail.com
